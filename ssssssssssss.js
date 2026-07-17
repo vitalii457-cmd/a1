@@ -6875,8 +6875,8 @@
                     }
                 },
                 welcomeMsg: {
-                    title: "Добро пожаловать в TizenTube",
-                    subtitle: "Перейдите в настройки и нажмите «Настройки TizenTube»."
+                    title: "11Добро пожаловать в TizenTube",
+                    subtitle: "11Перейдите в настройки и нажмите «Настройки TizenTube»."
                 },
                 sponsorblock: {
                     segments: {
